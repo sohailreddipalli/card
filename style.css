@@ -1,0 +1,75 @@
+.card
+{
+  color:white;
+  text-align:center;
+ 
+  height:225px;
+  border-radius:25px;
+  
+}
+
+  
+
+.bg
+{
+  background-image:url(images/img-2.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.img
+{
+    opacity: none;
+    border-radius: 50%;
+}
+h3{
+  color:red;
+  border-width: 25px;
+
+}
+.flex-containetr
+{
+  width: 175px;
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+   margin-top: 220px;
+    margin-left: 85px;
+    background-color: lightgreen;
+    border-block-start-style: solid;
+}
+h4{
+ border-width: 25px;
+  margin-left: 180px;
+}
+
+.multicolor-text {
+  text-align:center;
+  font-size: 37px;
+  background: linear-gradient(to left,
+          yellow,
+          yellow,
+          white,
+          blue,
+          violet,
+          white,
+          white,
+        violet,
+           yellow,
+           yellow,
+          rgb(195, 8, 8),
+         blue);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.img-moharam
+{
+  opacity: none;
+
+}
+.flexing
+{
+display: flex;
+flex-direction: row;
+justify-content:flex-start;
+}
